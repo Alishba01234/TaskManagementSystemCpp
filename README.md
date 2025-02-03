@@ -1,4 +1,3 @@
-# TaskManagementSystemCpp
 # Task Management System
 
 ## Overview
